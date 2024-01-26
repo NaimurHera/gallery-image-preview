@@ -1,3 +1,6 @@
 # See demo 
+Click on the image below
 
-👉👉[Click here](https://naimurhera.github.io/gallery-image-preview/index.html) 
+[<img src="https://raw.githubusercontent.com/NaimurHera/gallery-image-preview/main/Demo-thumbnail.png" alt="Demo thumbnail" title="Thumbnail">](https://naimurhera.github.io/gallery-image-preview/index.html)
+
+
